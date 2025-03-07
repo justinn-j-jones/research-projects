@@ -3,4 +3,4 @@ Central repo for my project files, code, etc.
 
 |Projects    |
 |:------:|
-|[pro_1](UFUG/README.md)|
+|[Using aerial and terrestrial mobile lidar with high-resolution imagery to estimate biophysical parameters of urban trees](UFUG/README.md)|
