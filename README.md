@@ -1,7 +1,6 @@
-# research-projects
+# Research Projects 
 Central repo for my project files, code, etc. 
 
 |Projects    |
 |:------:|
-|[lab_1](lab_1/README.md)|
-|[lab_2](lab_2/README.md)|
+|[2025 UFG](Using aerial and terrestrial mobile lidar with high-resolution imagery to estimate biophysical parameters of urban trees - UFUG/README.md)|
