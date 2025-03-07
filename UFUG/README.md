@@ -4,8 +4,6 @@ Urban Forestry & Urban Greening
 ## Appendix A: A__LAS_synpts_raster.ipynb
 This notebook assumes the ipynb resides directly in the “main directory” with a ‘_input’ folder housing the input files. We will create and use an ‘output’ folder for output files.
 
-***
-
 "Synthetic Points from Raster $(SPR)$" will take an input raster and create a single point from each cell with the cell value, and output a new TXT, which can then be read into software (such as Quick Terrain Modeler) as XYZ (ASCII) and exported as LAZ / LAS. 
 <br><br>
 This is useful for gap-filling from a DEM or generating a "top of canopy LAS" from a CHM.
@@ -31,7 +29,7 @@ This R markdown notebook is the third step towards automating the process of mea
 
 This notebook assumes the RMD resides directly in the "main directory" with a '\_input' folder housing the input files. We will create and use an 'output' folder for output files.
 
-# Appendix E: E__TreeLS_inv_v2.ipynb
+## Appendix E: E__TreeLS_inv_v2.ipynb
 This ipynb is the fourth step towards automating the process of measuring trees.
 
 This notebook assumes the ipynb resides directly in the “main directory” with a ‘_input’ folder housing the input files. We will create and use an ‘output’ folder for output files.
