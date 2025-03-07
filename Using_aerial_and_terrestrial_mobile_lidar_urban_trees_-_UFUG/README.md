@@ -1,6 +1,8 @@
 # Using aerial and terrestrial mobile lidar with high-resolution imagery to estimate biophysical parameters of urban trees
 Urban Forestry & Urban Greening
 
+This directory contains all python and R notebooks used to process and analyze data for our projects. Some files, such as CHM.tif and MLS.las are much too large to upload here, but a sample of 10 trees is provided in the Sample sub-directory. Output shapefiles, CSVs, etc. can be found in the corresponding Output folders. 
+
 ## Sample mobile lidar scan (MLS) LAS
 Sample of 10 trees scanned with MLS from our project. The complete scans are far too large to upload here. 
 
@@ -40,3 +42,19 @@ This notebook assumes the ipynb resides directly in the “main directory” wit
 - This notebook will take the `TreeLS` output CSV as an input and join to existing inventory list to create one master inventory. 
 - After joining, subsets will be created to run stats. 
 - Outputs will be CSV and SHP of master inventory list along with scatterplots. 
+
+# Contact 
+
+**Justinn J. Jones ’24, GISP**
+
+Graduate Research Assistant / FAA sUAS RP
+
+LASERS Lab / WFES 360
+
+Department of Ecology & Conservation Biology
+
+College of Agriculture & Life Sciences
+
+justinn.j.jones@tamu.edu
+
+**TEXAS A&M UNIVERSITY**
