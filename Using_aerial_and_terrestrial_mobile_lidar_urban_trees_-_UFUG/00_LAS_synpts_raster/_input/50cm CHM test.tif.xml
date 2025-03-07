@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240611</CreaDate><CreaTime>21261100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\Rename" Date="20240611" Time="212611">Rename C:\Temp\sample_code\00_LAS_synpts_raster\_input\test_chm.tif "C:\Temp\sample_code\00_LAS_synpts_raster\_input\50cm CHM test.tif" RasterDataset</Process></lineage></DataProperties></Esri></metadata>

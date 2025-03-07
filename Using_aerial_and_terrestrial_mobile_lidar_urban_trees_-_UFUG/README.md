@@ -1,7 +1,10 @@
 # Using aerial and terrestrial mobile lidar with high-resolution imagery to estimate biophysical parameters of urban trees
 Urban Forestry & Urban Greening
 
-## Appendix A: A__LAS_synpts_raster.ipynb
+## Sample mobile lidar scan (MLS) LAS
+Sample of 10 trees scanned with MLS from our project. The complete scans are far too large to upload here. 
+
+## Appendix A: 00_LAS_synpts_raster
 This notebook assumes the ipynb resides directly in the “main directory” with a ‘_input’ folder housing the input files. We will create and use an ‘output’ folder for output files.
 
 "Synthetic Points from Raster $(SPR)$" will take an input raster and create a single point from each cell with the cell value, and output a new TXT, which can then be read into software (such as Quick Terrain Modeler) as XYZ (ASCII) and exported as LAZ / LAS. 
@@ -10,12 +13,12 @@ This is useful for gap-filling from a DEM or generating a "top of canopy LAS" fr
 <br><br>
 If it is necessary to replace negative Z values with 0, the last cell will write a new TXT. 
 
-## Appendix B: B__RMD1.Rmd
+## Appendix B: 01_RMD1
 This R markdown notebook is the first step towards automating the process of measuring trees.
 
 This notebook assumes the RMD resides directly in the "main directory" with a '\_input' folder housing the input files. We will create and use an 'output' folder for output files.
 
-## Appendix C: C__tt_cw_v2.ipynb
+## Appendix C: 02_lidR_tt_cw
 This ipynb is the second step towards automating the process of measuring trees.
 
 This notebook assumes the ipynb resides directly in the “main directory” with a ‘_input’ folder housing the input files. We will create and use an ‘output’ folder for output files.
@@ -24,12 +27,12 @@ This notebook assumes the ipynb resides directly in the “main directory” wit
 - These inputs will be joined to field data points and calculate Improved Crown Width (ICW). 
 - Output will be a CSV file and histograms. 
 
-## Appendix D: D__RMD2.Rmd
+## Appendix D: 03_RMD2
 This R markdown notebook is the third step towards automating the process of measuring trees.
 
 This notebook assumes the RMD resides directly in the "main directory" with a '\_input' folder housing the input files. We will create and use an 'output' folder for output files.
 
-## Appendix E: E__TreeLS_inv_v2.ipynb
+## Appendix E: 04_TreeLS_inv
 This ipynb is the fourth step towards automating the process of measuring trees.
 
 This notebook assumes the ipynb resides directly in the “main directory” with a ‘_input’ folder housing the input files. We will create and use an ‘output’ folder for output files.
