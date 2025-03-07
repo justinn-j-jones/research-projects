@@ -1,7 +1,7 @@
 # Using aerial and terrestrial mobile lidar with high-resolution imagery to estimate biophysical parameters of urban trees
 Urban Forestry & Urban Greening
 
-This directory contains all python and R notebooks used to process and analyze data for our projects. Some files, such as CHM.tif and MLS.las are much too large to upload here, but a sample of 10 trees is provided in the Sample sub-directory. Output shapefiles, CSVs, etc. can be found in the corresponding Output folders. 
+This directory contains all python and R notebooks used to process and analyze data for our projects. Some files, such as CHM.tif and MLS.las, are much too large to upload here, but a sample of 10 trees is provided in the Sample sub-directory. Output shapefiles, CSVs, etc. can be found in the corresponding Output folders. 
 
 ## Sample mobile lidar scan (MLS) LAS
 Sample of 10 trees scanned with MLS from our project. The complete scans are far too large to upload here. 
