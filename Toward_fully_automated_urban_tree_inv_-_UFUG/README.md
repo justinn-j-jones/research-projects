@@ -1,5 +1,6 @@
 # Toward Fully Automated Urban Tree Inventory: Integrating Mobile Lidar and Open-Source Tools
 Urban Forestry & Urban Greening
+article link: https://doi.org/10.1016/j.ufug.2026.129362
 
 This directory contains all python and R notebooks used to process and analyze data for our projects. Some files, such as CHM.tif and MLS.las, are much too large to upload here, but a sample of 10 trees is provided in the Sample sub-directory. Output shapefiles, CSVs, etc. can be found in the corresponding Output folders. 
 
