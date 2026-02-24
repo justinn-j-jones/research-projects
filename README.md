@@ -3,4 +3,4 @@ Central repo for my project files, code, etc.
 
 |Projects    |
 |:------:|
-|[Using aerial and terrestrial mobile lidar ... urban trees - UFUG 2025](Using_aerial_and_terrestrial_mobile_lidar_urban_trees_-_UFUG/README.md)|
+|[Toward Fully Automated Urban Tree Inventory... - UFUG 2026](Toward_fully_automated_urban_tree_inv_-_UFUG/README.md)|
