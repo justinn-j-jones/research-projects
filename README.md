@@ -12,7 +12,7 @@ This landing page links to all of my GitHub project repositories and Zenodo‑ar
 
 ## 🌲 Featured Projects
 
-### **1. Spaceborne Lidar for Vegetation Assessment (Workshop)**
+### **Spaceborne Lidar for Vegetation Assessment (Workshop)**
 Repository: https://github.com/justinn-j-jones/Spaceborne-lidar-for-vegetation-assessment  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19099501  
 Description:  
@@ -20,7 +20,7 @@ Instructional materials and Jupyter notebooks demonstrating workflows with **ICE
 
 ---
 
-### **2. Toward Fully Automated Urban Tree Inventory (UFUG 2026)**
+### **Toward Fully Automated Urban Tree Inventory (UFUG 2026)**
 Repository: https://github.com/justinn-j-jones/Toward_fully_automated_urban_tree_inv_-_UFUG-2026  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19121499  
 Publication DOI: https://doi.org/10.1016/j.ufug.2026.129362  
