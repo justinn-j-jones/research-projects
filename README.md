@@ -5,21 +5,29 @@ This landing page links to all of my GitHub project repositories and Zenodo‑ar
 
 ---
 
-## 🌲 Featured Projects (Table Overview)
+## 🌲 Featured Projects
 
-| Project | Repository | Zenodo DOI | Publication DOI |
-|--------|------------|------------|-----------------|
-| **Spaceborne Lidar for Vegetation Assessment** | https://github.com/justinn-j-jones/Spaceborne-lidar-for-vegetation-assessment | https://doi.org/10.5281/zenodo.19099501 | — |
-| **Toward Fully Automated Urban Tree Inventory (UFUG 2026)** | https://github.com/justinn-j-jones/Toward_fully_automated_urban_tree_inv_-_UFUG-2026 | https://doi.org/10.5281/zenodo.19121499 | https://doi.org/10.1016/j.ufug.2026.129362 |
+### **1. Spaceborne Lidar for Vegetation Assessment (Workshop)**
+Repository: https://github.com/justinn-j-jones/Spaceborne-lidar-for-vegetation-assessment  
+Zenodo DOI: https://doi.org/10.5281/zenodo.19099501  
+Description:  
+Instructional materials and Jupyter notebooks demonstrating workflows with **ICESat‑2 ATL08**, **GEDI L2A/L2B**, **Google Earth Engine**, and **machine learning** for vegetation structure modeling.
 
-More projects will be added as they are published and archived.
+---
+
+### **2. Toward Fully Automated Urban Tree Inventory (UFUG 2026)**
+Repository: https://github.com/justinn-j-jones/Toward_fully_automated_urban_tree_inv_-_UFUG-2026  
+Zenodo DOI: https://doi.org/10.5281/zenodo.19121499  
+Publication DOI: https://doi.org/10.1016/j.ufug.2026.129362  
+Description:  
+Supporting notebooks and workflows for urban tree inventory using **mobile lidar (MLS)**, **lidR**, **TreeLS**, and automated tree‑feature extraction.
 
 ---
 
 ## 📁 About This Repository
 
 This repository serves as a **high‑level index** for my research work.  
-Instead of storing code here, this page provides links to dedicated repositories for each project, each containing:
+Rather than storing code directly here, this page links to dedicated repositories for each project, each containing:
 
 - Notebooks  
 - Code (Python / R)  
@@ -29,7 +37,19 @@ Instead of storing code here, this page provides links to dedicated repositories
 - Citation files  
 - Publication links (when applicable)
 
-This keeps each project clean, properly archived, and independently citable.
+This approach provides clean project separation while maintaining a single, easy‑to‑navigate landing page.
+
+---
+
+## 🔗 Additional Research Outputs (More projects coming soon)
+
+- (Future project placeholder)  
+- (Thesis‑related workflows)  
+- (Google Earth Engine scripts)  
+- (ICESat‑2 and GEDI comparison tools)  
+- (Machine learning models for canopy height prediction)
+
+This repository will continue to be updated as new workflows, datasets, and publications are released.
 
 ---
 
@@ -52,24 +72,16 @@ My research focuses on:
 
 ---
 
-## 🔗 Useful Links
-
-- LASERS Lab — https://lasers.tamu.edu/  
-- GitHub Profile — https://github.com/justinn-j-jones  
-- ORCID — https://orcid.org/0009-0007-5032-6657  
-
----
-
 ## 📬 Contact
 
-For collaboration requests or questions about any workflow:
+If you have questions, collaboration requests, or would like to use any of these workflows in your research or teaching:
 
 📧 justinn.j.jones@tamu.edu  
-Or open an Issue in the corresponding GitHub project repository.
+Or open an issue in the corresponding GitHub project repository.
 
 ---
 
 ## 📝 License
 
-All individual project repositories include their own licenses (typically **MIT License**).  
-Please cite the associated **Zenodo DOI** and **publication DOI** (if applicable) when using code or notebooks.
+All repositories linked here include individual licenses (typically **MIT License**) allowing reuse, modification, and distribution.  
+When using any project, please cite the associated Zenodo DOI and publication (if applicable).
