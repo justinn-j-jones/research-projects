@@ -1,3 +1,7 @@
+<p align="center">
+  images/aggie_Jones_banner.png" alt="Research Projects Banner" width="100%">
+</p>
+
 # Research Projects by Justinn J. Jones
 
 Welcome to my central repository for **research projects, publications, datasets, and open‑source geospatial workflows**.  
