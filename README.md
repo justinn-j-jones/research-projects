@@ -29,6 +29,21 @@ Supporting notebooks and workflows for urban tree inventory using **mobile lidar
 
 ---
 
+## 💻 Featured Datasets
+
+### 2025 State of Texas Canopy Height Model Dataset (beta)
+
+**Dataset DOI:** https://doi.org/10.5281/zenodo.21629512
+
+Beta release of a canopy height model raster made available for community
+evaluation and testing.
+
+- Version: 0.1-beta
+- Type: GeoTIFF canopy height model
+- Citation record: https://zenodo.org/records/21629512
+
+---
+
 ## 📁 About This Repository
 
 This repository serves as a **high‑level index** for my research work.  
